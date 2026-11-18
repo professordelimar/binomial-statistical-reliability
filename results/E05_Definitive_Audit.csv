@@ -1,0 +1,7 @@
+criterion,passed,status
+Replications completed,True,PASS
+Sequential rejection nesting,True,PASS
+Cumulative rejection monotonicity,True,PASS
+Exact fixed-sample compatibility,True,PASS
+Stability classification consistency,True,PASS
+Finite computational time,True,PASS

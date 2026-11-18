@@ -1,0 +1,10 @@
+parameter,value
+sample_sizes,"[100, 500, 1000, 5000, 10000, 50000, 100000]"
+probabilities,"[0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.95, 0.99]"
+replications,9604
+batch_size,500
+fixed_tolerance,0.05
+standardized_tolerance,1.96
+family_alpha,0.05
+family_comparisons,189
+seed,53027

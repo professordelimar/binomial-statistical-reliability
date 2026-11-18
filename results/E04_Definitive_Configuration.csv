@@ -1,0 +1,8 @@
+parameter,value
+sample_sizes,"[100, 500, 1000]"
+autocorrelations,"[0.0, 0.3, 0.7]"
+marginal_probability,0.5
+replications,9604
+alpha,0.05
+change_probabilities,"(0.2, 0.8)"
+seed,56027

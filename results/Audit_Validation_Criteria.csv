@@ -1,0 +1,6 @@
+criterion,value
+maximum_standardized_error,4.0
+maximum_relative_variance_error,0.25
+maximum_standardized_mc_discrepancy,4.0
+audit_replications,300.0
+audit_seed,22027.0

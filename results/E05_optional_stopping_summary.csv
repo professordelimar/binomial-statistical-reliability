@@ -1,0 +1,3 @@
+procedure,rejection_rate,replications
+Fixed sample,0.06,100
+Repeated testing,0.4,100

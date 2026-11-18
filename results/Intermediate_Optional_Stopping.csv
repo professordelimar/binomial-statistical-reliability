@@ -1,0 +1,3 @@
+procedure,false_positive_rate,replications
+Fixed sample,0.066,500
+Repeated monitoring,0.488,500

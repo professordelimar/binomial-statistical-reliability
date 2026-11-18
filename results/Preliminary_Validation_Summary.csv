@@ -1,0 +1,6 @@
+category,passed
+Mathematical validation,True
+Reproducibility,True
+Figure generation,True
+Numerical results,True
+Performance benchmark,True

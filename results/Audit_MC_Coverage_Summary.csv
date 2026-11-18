@@ -1,0 +1,4 @@
+method,scenarios,maximum_absolute_z,scenarios_within_tolerance
+Clopper-Pearson,9,2.8725720915670006,9
+Wald,9,2.1264592874182524,9
+Wilson,9,1.6051588697287829,9

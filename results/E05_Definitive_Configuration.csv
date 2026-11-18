@@ -1,0 +1,12 @@
+parameter,value
+sample_size,1000
+replications,9604
+batch_size,256
+null_probability,0.5
+alpha,0.05
+monitoring_start,20
+stability_window,80-100
+future_window,101-500
+stability_threshold,0.05
+future_error_threshold,0.1
+seed,57027

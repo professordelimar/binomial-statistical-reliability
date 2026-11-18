@@ -1,0 +1,22 @@
+scenario,test,standardized_discrepancy,within_tolerance
+Markov_n100_rho0.0,Mean,-0.502040816326539,True
+Markov_n100_rho0.0,Lag1 moment,-0.24219605935976557,True
+Markov_n100_rho0.3,Mean,1.697837760572127,True
+Markov_n100_rho0.3,Lag1 moment,1.7330132844131463,True
+Markov_n100_rho0.7,Mean,0.28079337621709777,True
+Markov_n100_rho0.7,Lag1 moment,0.17455500561676987,True
+Markov_n500_rho0.0,Mean,0.32673972895742287,True
+Markov_n500_rho0.0,Lag1 moment,-0.05958745601075413,True
+Markov_n500_rho0.3,Mean,0.7820844566274273,True
+Markov_n500_rho0.3,Lag1 moment,0.8927289768465585,True
+Markov_n500_rho0.7,Mean,-1.3102378350809119,True
+Markov_n500_rho0.7,Lag1 moment,-1.4580577278386189,True
+Markov_n1000_rho0.0,Mean,-1.2216717572854767,True
+Markov_n1000_rho0.0,Lag1 moment,-1.185149077707451,True
+Markov_n1000_rho0.3,Mean,0.13264244431468078,True
+Markov_n1000_rho0.3,Lag1 moment,0.31451460401923176,True
+Markov_n1000_rho0.7,Mean,0.4319238408567935,True
+Markov_n1000_rho0.7,Lag1 moment,0.37173517292532704,True
+Stationary,Global mean,0.3581763472232891,True
+Low-to-high,Global mean,0.04840220908383305,True
+High-to-low,Global mean,1.32138030799905,True

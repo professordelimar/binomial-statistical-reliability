@@ -1,0 +1,7 @@
+parameter,value
+sample_sizes,"[100, 500, 1000, 5000, 10000, 50000, 100000]"
+probabilities,"[0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.95, 0.99]"
+confidence_level,0.95
+target_mc_half_width,0.01
+batch_size,500
+random_seed,52027

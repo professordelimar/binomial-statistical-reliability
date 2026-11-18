@@ -1,0 +1,4 @@
+criterion,passed
+Exact fixed-sample consistency,True
+Sequential rejection nesting,True
+Valid probability estimates,True

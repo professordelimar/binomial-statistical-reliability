@@ -1,0 +1,7 @@
+parameter,value
+sample_sizes,"[10, 25, 50, 100, 250, 500]"
+probabilities,"[0.1, 0.3, 0.5, 0.7, 0.9]"
+n_replications,100
+alpha,0.05
+error_tolerance,0.05
+random_seed,2027

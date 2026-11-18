@@ -1,0 +1,4 @@
+test,passed
+E01_convergence,True
+E02_sampling_distributions,True
+Random_generator,True

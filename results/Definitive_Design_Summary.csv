@@ -1,0 +1,7 @@
+metric,value
+sample_size_scenarios,7.0
+probability_scenarios,9.0
+total_parameter_combinations,63.0
+replications_per_combination,9604.0
+total_equivalent_observations,14400237600.0
+maximum_individual_batch_memory_mb,381.4697265625

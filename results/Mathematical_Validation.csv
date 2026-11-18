@@ -1,0 +1,11 @@
+test,passed
+E01_binary,True
+E01_reproducible,True
+E02_mean,True
+E02_variance,True
+E03_bounds,True
+E03_exact_reference,True
+E04_stationary,True
+E04_autocorrelation,True
+E04_nonstationary_variance,True
+E05_stopping,True

@@ -1,0 +1,10 @@
+component,criterion,passed,status
+E01-E02,Sampling mean agreement,True,PASS
+E02,Sampling variance agreement,True,PASS
+E02,Exact MAE consistency,True,PASS
+E03,Exact Clopper-Pearson coverage,True,PASS
+E03,Monte Carlo coverage agreement,True,PASS
+E04,Theoretical Markov variance ordering,True,PASS
+E04,Nonstationary global mean,True,PASS
+E05,Sequential rejection consistency,True,PASS
+Performance,Finite positive execution times,True,PASS

@@ -1,0 +1,4 @@
+diagnostic,scenarios,maximum_absolute_z,scenarios_within_tolerance
+Bias,63,3.275007071925254,63
+MAE,63,2.45174761521477,63
+Reliability,63,2.4934509959887685,63
